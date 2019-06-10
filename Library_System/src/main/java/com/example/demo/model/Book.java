@@ -16,6 +16,7 @@ public class Book {
 
 	//Mainigie
 	
+	//lit
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	@Column(name = "ID_b")
